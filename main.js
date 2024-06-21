@@ -220,7 +220,22 @@
 
   // console.log(car4.mycar())
   // console.log(car4.Why())
-  // console.log(car4.myJun())
+  // console.log(car4.myJun()
+  
+
+  // const names = ['Nathan','life','Phenyo','Jade']
+
+  // for (let index = 0; index <names.length; index++) {
+  //   console.log(names)
+    
+  // }
+
+  const names = ['Nathan','life','Phenyo','Jade']
+
+ names.forEach(element => {
+  console.log(names)
+
+  });
 
 
 
